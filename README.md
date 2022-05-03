@@ -1,2 +1,3 @@
 # CmsMartin.github.io
-OI
+
+尝试开发 **静态** 的个人博客。
